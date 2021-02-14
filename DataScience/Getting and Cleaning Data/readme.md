@@ -1,4 +1,4 @@
-﻿# Background Peer graded Assignment Getting and Cleaning Data Course Project Feb 2021
+﻿# Assignment Getting and Cleaning Data Course Project Feb 2021
 
 ##Getting and Cleaning Data - peer assessment project
 
